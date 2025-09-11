@@ -72,7 +72,3 @@ Saved/*
 # Compiled source files for the engine to use
 Intermediate/*
 
-
-# Cache files for the editor to use
-DerivedDataCache/*
-Content/01_Model/0-Past_Model/Box_1936_1969/Materials/References/Material__34_Inst.uasset
